@@ -36,7 +36,7 @@ public class Car {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("Car{");
+        final StringBuilder sb = new StringBuilder("EconomyCar{");
         sb.append("type=").append(type);
         sb.append(", body='").append(body).append('\'');
         sb.append(", wheels='").append(wheels).append('\'');

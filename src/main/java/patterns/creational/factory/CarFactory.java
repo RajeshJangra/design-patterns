@@ -17,7 +17,7 @@ public class CarFactory {
             }
             default:
                 //can not happen since input is enum, added as does not want to initialize car with null
-                throw new InputMismatchException("Invalid Car Type");
+                throw new InputMismatchException("Invalid EconomyCar Type");
         }
         return car;
     }
