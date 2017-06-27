@@ -4,4 +4,5 @@ interface Observer<T> {
     void update();
 
     void setSubject(Subject<T> subject);
+
 }
