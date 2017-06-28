@@ -1,13 +1,13 @@
-# Gang of Four Design Patterns
+# [Gang of Four Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
 
-#### Creational Patterns
+#### [Creational Patterns](https://github.com/RajeshXebia/design-patterns/tree/master/src/main/java/patterns/creational)
   * **Abstract Factory:**	Creating an instance of family of products
   * **Builder:**	Finding a solution to telescoping constructor antipattern
   * **Factory:** Creating an instance of product
   * **Prototype:**	Cloning an instance
   * **Singleton:**	Only a single instance of a class can exist
   
-#### Structural Patterns
+#### [Structural Patterns](https://github.com/RajeshXebia/design-patterns/tree/master/src/main/java/patterns/structural)
   * **Adapter:**	Match interfaces of different classes
   * **Bridge:**	Separates an object’s interface from its implementation
   * **Composite:**	A tree structure of simple and composite objects
@@ -16,7 +16,7 @@
   * **Flyweight:**	A fine-grained instance used for efficient sharing
   * **Proxy:**	An object representing another object
 
-Behavioral Patterns
+#### [Behavioral Patterns](https://github.com/RajeshXebia/design-patterns/tree/master/src/main/java/patterns/behavioral)
   * **Chain of Responsibility:**	A way of passing a request between a chain of objects
   * **Command:**	Encapsulate a command request as an object
   * **Interpreter:**	A way to include language elements in a program
