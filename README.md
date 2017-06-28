@@ -1,8 +1,9 @@
-# Design Patterns also known as Gang of Four Design Patterns
+# Gang of Four Design Patterns
+## This repository contains implementation of GOF patterns in Java language.
 
-##### Creational Patterns
-  * Abstract Factory *	Creates an instance of several families of classes
-  Builder	Separates object construction from its representation
-  Factory Method	Creates an instance of several derived classes
-  Prototype	A fully initialized instance to be copied or cloned
-  Singleton	A class of which only a single instance can exist
+### Creational Patterns
+  * Abstract * Factory:	Creates an instance of several families of classes
+  * Builder:	Finding a solution to telescoping constructor antipattern
+  * Factory: Creating an instance of family of products
+  * Prototype:	Cloning an instance
+  * Singleton:	Only a single instance of a class can exist
