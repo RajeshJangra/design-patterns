@@ -1,6 +1,6 @@
 package patterns.behavioral.memento;
 
-public class MementoExample {
+public class Caretaker {
 
     public static void main(String[] args) {
         Originator originator = new Originator();

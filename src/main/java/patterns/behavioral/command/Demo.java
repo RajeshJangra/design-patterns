@@ -2,7 +2,7 @@ package patterns.behavioral.command;
 
 import java.io.File;
 
-public class CommandExample {
+public class Demo {
 
     public static void main(String[] args) {
         Command compressCommmand = new CompressCommand(new File("dummy input file"));
