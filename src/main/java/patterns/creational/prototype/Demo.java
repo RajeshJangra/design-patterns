@@ -1,6 +1,6 @@
 package patterns.creational.prototype;
 
-public class PrototypeExample {
+public class Demo {
 
     public static void main(String[] args) {
         Book book = new Book(10.0D, "Programming Pearls");
