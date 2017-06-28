@@ -1,6 +1,6 @@
 package patterns.structural.proxy;
 
-public class ProxyExample {
+public class Demo {
 
     public static void main(String[] args) {
         Runner runner = new ProxyRunner();

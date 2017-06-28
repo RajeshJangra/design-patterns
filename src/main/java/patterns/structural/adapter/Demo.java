@@ -1,6 +1,6 @@
 package patterns.structural.adapter;
 
-public class SocketExample {
+public class Demo {
     public static void main(String[] args) {
 
         //Class adapter

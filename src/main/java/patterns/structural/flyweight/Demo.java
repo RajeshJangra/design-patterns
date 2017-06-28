@@ -3,7 +3,7 @@ package patterns.structural.flyweight;
 import static patterns.structural.flyweight.VehicleType.BUS;
 import static patterns.structural.flyweight.VehicleType.CAR;
 
-public class FlyweightExample {
+public class Demo {
     public static void main(String[] args) {
         final Vehicle car = VehicleFactory.getVehicle(CAR);
         System.out.println("car.getDetails() = " + car.getDetails());
