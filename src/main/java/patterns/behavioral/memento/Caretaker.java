@@ -7,7 +7,7 @@ public class Caretaker {
         originator.setState("State 1");
         originator.setState("State 2");
         originator.setState("State 3");
-        String previoudState = null;
+        String previoudState;
         while ((previoudState = originator.undo()) != null) {
             System.out.println("previoudState = " + previoudState);
         }

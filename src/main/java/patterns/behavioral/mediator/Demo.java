@@ -1,6 +1,6 @@
 package patterns.behavioral.mediator;
 
-public class MediatorExample {
+public class Demo {
 
     public static void main(String[] args) {
         final MessengerImpl messenger = new MessengerImpl();

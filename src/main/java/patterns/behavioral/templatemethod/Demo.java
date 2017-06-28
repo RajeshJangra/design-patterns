@@ -1,6 +1,6 @@
 package patterns.behavioral.templatemethod;
 
-public class TemplateExample {
+public class Demo {
 
     public static void main(String[] args) {
         WarmBeverage coffee = new Coffee();

@@ -1,6 +1,6 @@
 package patterns.behavioral.visitor;
 
-public class VisitorExample {
+public class Demo {
 
     public static void main(String[] args) {
         final CostCalculatorVisitor visitor = new CostCalculatorVisitor();

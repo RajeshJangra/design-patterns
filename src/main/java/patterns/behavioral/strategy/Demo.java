@@ -2,7 +2,7 @@ package patterns.behavioral.strategy;
 
 import java.util.Date;
 
-public class StrategyExample {
+public class Demo {
 
     public static void main(String[] args) {
         final BankAccountPaymentMethod bankAccountPaymentMethod = new BankAccountPaymentMethod(1, "Harrison Ford", "Branch Id 1");

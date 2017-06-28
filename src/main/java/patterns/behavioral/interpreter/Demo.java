@@ -1,6 +1,6 @@
 package patterns.behavioral.interpreter;
 
-public class InterpreterExample {
+public class Demo {
     public static void main(String[] args) {
 
         //14 -8 +10

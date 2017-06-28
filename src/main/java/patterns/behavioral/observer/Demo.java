@@ -1,6 +1,6 @@
 package patterns.behavioral.observer;
 
-public class ObserverExample {
+public class Demo {
 
     public static void main(String[] args) {
         Subject<String> subject = new SubjectImpl<>();

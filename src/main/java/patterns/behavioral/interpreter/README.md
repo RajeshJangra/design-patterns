@@ -1,8 +1,8 @@
 #### Interpreter Design Patterns
+
 ##### Definition
-```$xslt
-Interpreter pattern is a design pattern that specifies how to evaluate sentences in a language. The basic idea
-is to have a class for each symbol (terminal or nonterminal) in a specialized computer language. The syntax tree 
-of a sentence in the language is an instance of the composite pattern and is used to evaluate (interpret) 
-the sentence for a client.
-```
+
+Interpreter pattern is a design pattern that specifies how to evaluate expressions in a language. 
+* There are handlers for each symbol (terminal or non-terminal) which evaluate the expression. 
+* Non terminal expression invoke other expressions to evaluate the expression
+* Result is calculated when all the evaluation is completed.

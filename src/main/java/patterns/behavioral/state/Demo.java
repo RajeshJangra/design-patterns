@@ -1,6 +1,6 @@
 package patterns.behavioral.state;
 
-public class StateExample {
+public class Demo {
 
     public static void main(String[] args) {
         Context context = new Context();
